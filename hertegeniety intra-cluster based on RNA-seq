@@ -1,0 +1,6 @@
+变异系数：
+
+基于hvg计算两两细胞间的距离
+CV = 标准、平均值（*100）
+
+思路的来源：Characterization of the Zebrafish Cell Landscape at SingleCell Resolution
