@@ -3,6 +3,9 @@
 we extracted orthologous genes and performed cross-species clustering analysis of zebrafish gill (Z_G), swim bladder (Z_SB) and mouse lung (M_AL), fetal lung
 (M_FL)
 
+具体方法：To compare cross-species transcriptomes, we performed MetaNeighbor (Crow et al., 2018) analysis between zebrafish and mouse. MetaNeighbor was formalized through
+neighbor voting based on cell-cell similarities. The mean area under the receive
+
 
 ########2个专业的词#########
 conservative analysis 对应 comparative analysis
