@@ -1,0 +1,3 @@
+#########信息熵来衡量组织的可塑性或者再生能力 ######################
+Unlike mammals, zebrafish adult tissues exert powerful regenerative ability (Gemberling et al., 2013). To understand the potential cellular mechanism, stemID was performed to quantitatively measure cellular plasticity based on single cell entropy (Grun et al., 2016). 
+High entropy is associated with more plasticity, while low entropy is associated with more stabilized states (Han et al., 2020).
